@@ -44,3 +44,17 @@ retail-analytics///
 2. Add your bigquery_key.json to the root folder
 3. Run upload_to_bigquery.py to load data
 4. Open notebooks in order (01 to 05)
+
+## Dashboard Preview
+
+### Overview
+![Overview](dashboard/Screenshot%202026-05-28%20215222.png)
+
+### Revenue Trends
+![Revenue Trends](dashboard/Screenshot%202026-05-28%20215239.png)
+
+### Customer Analysis
+![Customer Analysis](dashboard/Screenshot%202026-05-28%20215250.png)
+
+### Delivery & Reviews
+![Delivery & Reviews](dashboard/Screenshot%202026-05-28%20215302.png)
