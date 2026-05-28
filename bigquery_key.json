@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "retail-analytics-493018",
+  "private_key_id": "50db13dfcd3db2128ab01a2591a5125c94358307",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDLEstPcgxXfMLN\n2WXj5qdYUQN6pQGZQUfkAeOcTSufb4ySrlmzTmrRBhNw69/zGihYcCwcRPSNDOmq\nhvbnEtvGFy2ttf642WsmpAtIZCiOB9hulKg1Nl0p03Q2vdF8V+zV0GPA7CYEKwlg\n2DmCMw50Nxt609UEDf5hGmLfocNKXPHruk8DKzsl8X+t0qd7UvNxvjYghGmwR+Me\n1piQxFYIYAn6nY0mH4Pdd0hPEm8Qfh0lVWrQEoayr1blejou8p7XRThWsX5iyxyI\nrSBwSFbpQTJnP039vhZTvsjEARxO/st+Ut96JYqb/+RAtVrrWfpDreF28fTbuhT7\n8vitDKOBAgMBAAECggEAYs6MtOWRgrn2EPGfxWEzeGHGtxR1MCvWvmZ66FCWEpfU\nhoQlqfxUNcrmh7GFAERwcAN4OvMEKGMpiGrt1GXVIE+jzps4SpmjLKRxxvHQ17aS\nhM94/pcqglDcAUyfkog3eJtSBgsAvlNwVzot1R9hf4NWsA9E3JmwdW/Avv32xwWO\n016bpK24l9WBx3RJMDqPs/eEEdE52c9ryPuM8ZjsgZxfP4+HFp4fAGECt2xIMPSI\nGmMAgI0+gN5ME9E86Pqfm8dVDv6PG7+YErJlRiBK9I7UqG0ZjZkJtXU2TXS5Rog7\nmnsYIhNhPPjQSN7VeoreoJj9nY6tzo5c9bb/kcAlnwKBgQD0sRghGWGqgrAeKc7G\n/l4CEN8giP0TGVynECwwUFkSC75abFZy9YgsGsf9zrPfhNXoEfcTEORSxRdfu9iQ\nK1yPCEozAaA1ft9CIHxHrYMDU1teRne2fco1D7ealuyoQrV297bx0VXQn2akTrIE\nRHn7b3EHjd0CkOAxSVPO70smxwKBgQDUdVIDbwAy6nDb4t47Pjjl+V2kFxhDLEgk\n/CVXCr1F5rtH52aestC5PTtBGt1SStPN24DXR1puDTG+Fsx8HnG/2BvvEDqDSgbS\nRq1fbAylA1QErkFFkPGT0D/o5COmHSx6y23xGBk8A1V6O5lKdkTx6XKDoHK3mque\nX5cUkqR7dwKBgEQgtq4oiffWkUCktUzUb8o1dlpxqbzSl+hv6U2+YT5UBLjaZyt0\nz2gwQLSbA5vdOU13CwrE7j1ZYMun2oExgYDVdwtCjZ+3ZmPb9Z5jYhHf+JWEGzq1\nRUKG0MD6+oNSp4GrMMWdWj5O0142BvyHMEtgWOEYj4tyWOmAGBSKrarrAoGBALji\n/+QNDNdCPcScwVg85bb8MwlBL9QFDSNiafw9VEkoaYJBVYR1iD4rkw0tG70pcPiM\nNKsjZQawZMFPhdPdio+wuV5peQIXwafr6aRImxhetRb9rb+kSxae+37oSj2c1cBm\nl95fYlZfcFtW0ieClK0Qwp7ZWft9livUc91rX8gxAoGAFEePM5uLTxw83eqUVJg4\nkEf2tsKGWsE3bwKo+sP2Uyxgsjo0tj6KS8cByFZKiTf/gjOKeMsGFPY4Z6MzI0Ov\nEOkoUdKXI3iXT0uptcfn+cL/tCej6/MaBTe9hVO7Qb52SQfSSGqID6nJqSfNUGId\n4ZKATSaBFnEc85aMZntBenU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "retail-analytics-sa@retail-analytics-493018.iam.gserviceaccount.com",
+  "client_id": "103953982887018068687",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/retail-analytics-sa%40retail-analytics-493018.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

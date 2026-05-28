@@ -17,7 +17,7 @@ An end-to-end retail analytics pipeline built on the Olist Brazilian E-Commerce 
 Olist Brazilian E-Commerce public dataset — 100,000+ orders across 9 tables including orders, customers, products, payments, reviews, and sellers.
 
 ## Project Structure
-retail-analytics/
+retail-analytics///
 ├── archive/          # Raw CSV files
 ├── dbt/              # dbt models
 │   └── models/
@@ -29,7 +29,7 @@ retail-analytics/
 ├── 04_AB_test.ipynb          # A/B Test - Delivery vs Reviews
 ├── 05_clustering.ipynb       # K-Means Customer Clustering
 └── upload_to_bigquery.py     # Data ingestion script
-
+///
 ## Key Findings
 - **97% delivery rate** across 100,000+ orders
 - **Top category**: Bed & Bath (11,115 orders)
